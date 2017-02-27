@@ -18,5 +18,8 @@ def transData(path, outfilename):
 
 
 
-transData("./data/test/", "./data/test/test.txt")
+#transData("./data/test/", "./data/test/test.txt")
 #transData("./data/train/", "./data/train/train.txt")
+
+transData("./data/testRGB/", "./data/testRGB/testRGB.txt")
+transData("./data/trainRGB/", "./data/trainRGB/trainRGB.txt")
